@@ -17,7 +17,7 @@
 <h1> Backend Basic With Spring </h1>
 <p>powered by Gabriel Carvalho</p>
 
-<div align="center">
+<div>
     <h2>Languages and Tools</h2>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt='Java'></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt='Maven'></code>
